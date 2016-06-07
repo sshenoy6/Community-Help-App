@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/babysitting"
+        android:title="Baby Sitting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/elderly"
+        android:title="Spend Time With Elderly"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/activities"
+        android:title="Drop kids to school or other co-curricular activities"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/grocery"
+        android:title="Buy Grocery"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/tutoring"
+        android:title="Tutoring"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/emergency"
+        android:title="Emergency!!! HELP!!!"
+        app:showAsAction="never" />
+</menu>

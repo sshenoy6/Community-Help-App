@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Community Help App</string>
+    <string name="signed_in_fmt">Welcome %s,</string>
+</resources>
